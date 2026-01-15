@@ -61,7 +61,7 @@ Crear una plataforma que permita:
 ## 👥 Equipo
 
 - Esteban Agüero  
-- Tomás Perez
 - Daniel Vildoza
 - Mauro Banegas
+- Ezequiel Navarro
 
