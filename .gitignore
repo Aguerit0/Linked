@@ -1,0 +1,6 @@
+venv/
+.env
+env
+#use_gitflow.md
+#readme_backend.md
+#readme_frontend.md
