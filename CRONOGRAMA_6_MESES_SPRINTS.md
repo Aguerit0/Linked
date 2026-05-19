@@ -11,21 +11,21 @@
 
 ## 🗓️ Resumen de Sprints
 
-| Sprint | Fechas | Focus | Tareas |
-|--------|--------|-------|--------|
-| Sprint 0 | 01-11 Jun | Setup y Aprendizaje | SCRUM-18, SCRUM-44, SCRUM-54 |
-| Sprint 1 | 12-19 Jun | Backend FastAPI Core | SCRUM-19, SCRUM-20, SCRUM-55 |
-| Sprint 2 | 23 Jun-04 Jul | Backend Auth + CRUD | SCRUM-21, SCRUM-22, SCRUM-23, SCRUM-56 |
-| Sprint 3 | 29 Jun-09 Jul | Frontend Setup + Auth | SCRUM-45, SCRUM-46, SCRUM-24, SCRUM-25 |
-| Sprint 4 | 13-23 Jul | Scraper LinkedIn | SCRUM-28, SCRUM-29, SCRUM-47 |
-| Sprint 5 | 27 Jul-11 Ago | Motor IA Embeddings | SCRUM-33, SCRUM-30, SCRUM-34, SCRUM-57 |
-| Sprint 6 | 10-20 Ago | Frontend Dashboard | SCRUM-35, SCRUM-31, SCRUM-48, SCRUM-58 |
-| Sprint 7 | 24 Ago-07 Sep | Matching + Frontend | SCRUM-36, SCRUM-37, SCRUM-49, SCRUM-59 |
-| Sprint 8 | 07-14 Sep | App Automática Gmail | SCRUM-39, SCRUM-40, SCRUM-50 |
-| Sprint 9 | 21 Sep-03 Oct | Bot LinkedIn + Docker | SCRUM-41, SCRUM-42, SCRUM-51 |
-| Sprint 10 | 05-12 Oct | CI/CD + Deploy | SCRUM-52, SCRUM-61 |
-| Sprint 11 | 19-26 Oct | Testing E2E | SCRUM-62, SCRUM-63 |
-| Sprint 12 | 02-12 Nov | Auditoría + Release | SCRUM-64, SCRUM-65, SCRUM-26 |
+| Sprint | ID | Fechas | Focus | Tareas |
+|--------|----|---------|-------|--------|
+| Sprint 0 | 35 | 01-14 Jun | Setup y Aprendizaje | SCRUM-18, SCRUM-44, SCRUM-54 |
+| Sprint 1 | 36 | 15-28 Jun | Backend FastAPI Core | SCRUM-19, SCRUM-20, SCRUM-55 |
+| Sprint 2 | 37 | 29 Jun-12 Jul | Backend Auth + CRUD | SCRUM-21, SCRUM-22, SCRUM-23, SCRUM-56 |
+| Sprint 3 | 46 | 01-14 Jul | Frontend Setup + Auth | SCRUM-45, SCRUM-46, SCRUM-24, SCRUM-25 |
+| Sprint 4 | 38 | 27 Jul-09 Ago | Scraper LinkedIn | SCRUM-28, SCRUM-29, SCRUM-47 |
+| Sprint 5 | 39 | 10-23 Ago | Motor IA Embeddings | SCRUM-33, SCRUM-30, SCRUM-34, SCRUM-57 |
+| Sprint 6 | 40 | 24 Ago-06 Sep | Frontend Dashboard | SCRUM-35, SCRUM-31, SCRUM-48, SCRUM-58 |
+| Sprint 7 | 41 | 07-20 Sep | Matching + Frontend | SCRUM-36, SCRUM-37, SCRUM-49, SCRUM-59 |
+| Sprint 8 | 42 | 21 Sep-04 Oct | App Automática Gmail | SCRUM-39, SCRUM-40, SCRUM-50 |
+| Sprint 9 | 47 | 01-14 Oct | Bot LinkedIn + Docker | SCRUM-41, SCRUM-42, SCRUM-51 |
+| Sprint 10 | 43 | 19 Oct-01 Nov | CI/CD + Deploy | SCRUM-52, SCRUM-61 |
+| Sprint 11 | 44 | 02-15 Nov | Testing E2E | SCRUM-62, SCRUM-63 |
+| Sprint 12 | 45 | 16-28 Nov | Auditoría + Release | SCRUM-64, SCRUM-65, SCRUM-26 |
 
 ---
 
